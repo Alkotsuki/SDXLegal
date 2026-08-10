@@ -1,0 +1,14 @@
+title: SDX Legal
+description: Privacy policies and terms for SDX apps.
+theme: jekyll-theme-primer
+lang: en
+
+# Documents live at clean URLs via front-matter permalinks
+# (e.g. evoke/privacy.md -> /evoke/privacy/).
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
