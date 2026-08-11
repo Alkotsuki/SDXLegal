@@ -9,7 +9,9 @@ Policies for apps published by Pavel Koval.
 
 ## Evoke
 
+- [Support & FAQ](/SDXLegal/evoke/support/)
 - [Privacy Policy](/SDXLegal/evoke/privacy/)
+- [Terms of Use (Apple standard EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
