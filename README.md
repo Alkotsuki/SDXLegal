@@ -8,6 +8,8 @@ Public legal documents for SDX apps, served as a GitHub Pages site.
 | --- | --- | --- |
 | Evoke — Privacy Policy | [`evoke/privacy.md`](evoke/privacy.md) | https://alkotsuki.github.io/SDXLegal/evoke/privacy/ |
 | Evoke — Support & FAQ | [`evoke/support.md`](evoke/support.md) | https://alkotsuki.github.io/SDXLegal/evoke/support/ |
+| Clarta — Privacy Policy | [`clarta/privacy.md`](clarta/privacy.md) | https://alkotsuki.github.io/SDXLegal/clarta/privacy/ |
+| Clarta — Support & FAQ | [`clarta/support.md`](clarta/support.md) | https://alkotsuki.github.io/SDXLegal/clarta/support/ |
 
 `evoke/support.md` is the **Support URL** on Evoke's App Store product page. App Review checks that
 it loads and that it offers a way to contact support, so it must stay reachable and must keep the
