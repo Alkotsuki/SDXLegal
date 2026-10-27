@@ -38,7 +38,7 @@ The rest of this document is the detail.
 Evoke is published by **Pavel Koval**, an individual developer, who is the data controller for the
 purposes of the UK GDPR and EU GDPR.
 
-**Contact:** [evoke-support@proton.me](mailto:evoke-support@proton.me)
+**Contact:** [evoke.support@gmail.com](mailto:evoke.support@gmail.com)
 
 Please use that address for any privacy question, request, or complaint.
 
@@ -248,7 +248,7 @@ Because Evoke has **no accounts**, most of your data is under your direct contro
 
 For anything you cannot do yourself — including a request that we ask our analytics providers to
 delete the pseudonymous records associated with your installation — email
-[evoke-support@proton.me](mailto:evoke-support@proton.me). Please note that because we hold no
+[evoke.support@gmail.com](mailto:evoke.support@gmail.com). Please note that because we hold no
 account identifier, we may need the analytics app‑instance ID from your device to locate any
 records; we will explain how to find it. We will respond within one month.
 
@@ -300,7 +300,7 @@ changes will be signalled in the app. The current version is always available at
 ## 14. Contact
 
 **Pavel Koval**
-[evoke-support@proton.me](mailto:evoke-support@proton.me)
+[evoke.support@gmail.com](mailto:evoke.support@gmail.com)
 
 If you are in the EU or UK and are unhappy with our response, you may complain to your local data
 protection authority.

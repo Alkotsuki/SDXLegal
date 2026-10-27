@@ -35,7 +35,7 @@ The rest of this document is the detail.
 
 Clarta is published by **Pavel Koval** (the "controller" under the GDPR).
 
-**Contact:** [evoke-support@proton.me](mailto:evoke-support@proton.me)
+**Contact:** [evoke.support@gmail.com](mailto:evoke.support@gmail.com)
 
 ## 2. Your letters
 
@@ -182,4 +182,4 @@ We will update this page when the app changes how it handles data, and bump the 
 
 ## 15. Contact
 
-**Pavel Koval** — [evoke-support@proton.me](mailto:evoke-support@proton.me)
+**Pavel Koval** — [evoke.support@gmail.com](mailto:evoke.support@gmail.com)

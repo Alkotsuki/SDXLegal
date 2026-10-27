@@ -21,4 +21,4 @@ Policies for apps published by Pavel Koval.
 
 ---
 
-Questions about any document on this site: [evoke-support@proton.me](mailto:evoke-support@proton.me)
+Questions about any document on this site: [evoke.support@gmail.com](mailto:evoke.support@gmail.com)

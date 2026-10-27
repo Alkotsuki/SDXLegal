@@ -8,7 +8,7 @@ permalink: /clarta/support/
 Clarta explains official letters in your language, tells you what to do and by when, helps you reply
 and fill in forms, and reminds you before deadlines.
 
-**Need help?** Write to [evoke-support@proton.me](mailto:evoke-support@proton.me?subject=Clarta%20support)
+**Need help?** Write to [evoke.support@gmail.com](mailto:evoke.support@gmail.com?subject=Clarta%20support)
 — in any language. We usually reply within 2 working days. In the app: **Settings › Contact support**.
 
 ## Using Clarta
